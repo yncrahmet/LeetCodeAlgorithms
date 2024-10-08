@@ -17,6 +17,7 @@ public class Polindrom {
 
     }
 
+    // Difficulty : Easy
     public static boolean isPalindrome(int x) {
 
         if (x < 0) {
